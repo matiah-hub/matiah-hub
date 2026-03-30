@@ -1,6 +1,6 @@
 # ¡Hola! Soy Matías Alonso 👋
 
-### Administrador Público & Desarrollador Full-Stack 🚀
+### Estudiante de Administración Pública & Desarrollador Full-Stack 🚀
 Actualmente, estoy potenciando mi perfil profesional a través de un Bootcamp intensivo de desarrollo web, consolidando habilidades técnicas para aplicarlas a la gestión pública moderna, la transformación digital y la eficiencia administrativa.
 
 ---
