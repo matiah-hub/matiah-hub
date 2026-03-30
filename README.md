@@ -43,6 +43,4 @@ Actualmente, potencio mi perfil profesional a través de un **Bootcamp intensivo
 
 ---
 
-### ⚡ Datos curiosos
-- 🎮 Experiencia en liderazgo y coordinación estratégica en entornos digitales competitivos.
-- 🐱 Convivencia diaria con una gata de mucha personalidad
+
