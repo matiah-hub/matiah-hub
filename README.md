@@ -33,7 +33,7 @@ Actualmente, potencio mi perfil profesional a través de un **Bootcamp intensivo
 ---
 
 ### 📍 Ubicación y Contacto
-📍 Santiago, Chile (La Florida) | 📧 [Tu Correo] | 💼 [Tu LinkedIn]
+📍 Santiago, Chile (La Florida) | 📧 correo | 💼Linkedin
 
 ---
 
