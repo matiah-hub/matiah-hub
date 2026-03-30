@@ -1,4 +1,4 @@
-# ¡Hola! Soy Matías Alonso 👋
+# ¡Hola! Soy Matías  👋
 
 ### Estudiante de Administración Pública & Desarrollador Full-Stack 🚀
 Actualmente, potencio mi perfil profesional a través de un **Bootcamp intensivo de desarrollo web**, consolidando habilidades técnicas para aplicarlas a la gestión pública moderna, la transformación digital y la eficiencia administrativa.
@@ -19,7 +19,6 @@ Actualmente, potencio mi perfil profesional a través de un **Bootcamp intensivo
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
